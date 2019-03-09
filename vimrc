@@ -16,9 +16,6 @@ set expandtab
 " when using the >> or << commands, shift lines by 4 spaces
 set shiftwidth=4
 
-" show a visual line under the cursor's current line
-set cursorline
-
 " show the matching part of the pair for [] {} and ()
 set showmatch
 
